@@ -15,7 +15,7 @@
 
 <br />
 <h2> Skills </h2>
-[![Matchmove](https://img.shields.io/badge/-Matchmove-F05032?style=for-the-badge&logo=matchmove&logoColor=ffffff)](https://img.shields.io/badge/Matchmove?style=flat
+![Matchmove](https://img.shields.io/badge/-Matchmove-F05032?style=for-the-badge&logo=matchmove&logoColor=ffffff)](https://img.shields.io/badge/Matchmove?style=flat
 )
 
 

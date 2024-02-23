@@ -17,7 +17,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Matchmove-black)
 ![Static Badge](https://img.shields.io/badge/rotoAnim-red)
-![Static Badge](https://img.shields.io/badge/python-red)
+![Static Badge](https://img.shields.io/badge/python-green)
+
 
 
 

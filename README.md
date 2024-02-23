@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1> Hi, I'm Jiwon Kang
+### Hi I'm Jiwon Kang 👋
 
 
 <p>

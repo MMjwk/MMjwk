@@ -15,22 +15,10 @@
 
 <br />
 <h2> Skills </h2>
-```sh
-npm install -g badge-maker
-badge build passed :green > mybadge.svg
-badge build passed :brightgreen > mybadge.svg
-```
+![Static Badge](https://img.shields.io/badge/Matchmove-black)
+![Static Badge](https://img.shields.io/badge/rotoAnim-red)
+![Static Badge](https://img.shields.io/badge/python-green)
 
-### As a library
-@@ -37,7 +37,7 @@ import { makeBadge, ValidationError } from 'badge-maker'
-const format = {
-  label: 'build',
-  message: 'passed',
-  color: 'green',
-  color: 'brightgreen',
-}
-
-const svg = makeBadge(format)
 
 
 

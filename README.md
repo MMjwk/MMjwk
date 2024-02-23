@@ -6,8 +6,7 @@
 <p>
   <em>
     <h3>
-      Matchmove/rotoAnim artist at IE. 
-      https://www.linkedin.com/in/matchmoverjiwonkang
+      Matchmove/rotoAnim artist
       </a>
     </h3>     
       </em>

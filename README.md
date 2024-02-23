@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**MMjwk/MMjwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi, I'm Jiwon Kang
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    <h3>
+      Matchmove/rotoAnim artist at IE.
+      <a href=https://www.linkedin.com/in/matchmoverjiwonkang/
+  </em>
+</p>
+
+<br />
+<h2> Skills </h2>
+![Matchmove](https://img.shields.io/badge/-Matchmove-F05032?style=for-the-badge&logo=matchmove&logoColor=ffffff)
+![rotoAnim](https://img.shields.io/badge/-rotoAnim-077ACC?style=for-the-badge&logo=rotoanim)
+![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logocolor=000000&labelcolor=%23F7DF1C&color=%23FFCE5A)
+
+
+- 📫 How to reach me: mm.jiwonkang@gmail.com

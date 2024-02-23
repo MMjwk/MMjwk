@@ -15,9 +15,11 @@
 
 <br />
 <h2> Skills </h2>
+
 ![Static Badge](https://img.shields.io/badge/Matchmove-black)
 ![Static Badge](https://img.shields.io/badge/rotoAnim-red)
-![Static Badge](https://img.shields.io/badge/python-green)
+![Static Badge](https://img.shields.io/badge/python-red)
+
 
 
 
